@@ -1,0 +1,10 @@
+.product-section{
+    margin-top: 10px;
+    background-color: white;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    
+}
