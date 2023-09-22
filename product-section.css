@@ -1,7 +1,7 @@
 .product-section{
     margin-top: 10px;
     background-color: white;
-    
+    max-width: 100%;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
